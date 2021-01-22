@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hibernate_ManyToMany_Relation/Hibernate_ManyToMany_Relation.iml" filepath="$PROJECT_DIR$/Hibernate_ManyToMany_Relation/Hibernate_ManyToMany_Relation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate_OneToMany_Relation/Hibernate_OneToMany_Relation.iml" filepath="$PROJECT_DIR$/Hibernate_OneToMany_Relation/Hibernate_OneToMany_Relation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate_OneToOne_Relation/Hibernate_OneToOne_Relation.iml" filepath="$PROJECT_DIR$/Hibernate_OneToOne_Relation/Hibernate_OneToOne_Relation.iml" />
     </modules>
